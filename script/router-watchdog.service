@@ -1,5 +1,5 @@
 [Unit]
-Description=Surveillance automatique LAN/WAN + DHCP tethering
+Description=Surveillance LAN/WAN + NAT DHCP WAN
 After=network-online.target
 StartLimitIntervalSec=0
 
